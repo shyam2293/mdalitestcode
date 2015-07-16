@@ -1,0 +1,10 @@
+
+->Support for protected branches
+
+->self host environment support
+
+->it supports Single Sign On SSO support via Omniauth strategies
+
+->issues with attachments
+
+->unlimited private repositorys are free
